@@ -8,8 +8,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xanooo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Statistiques"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xanooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages utilisés"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TAMINE-CYRIL&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="Statistiques"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TAMINE-CYRIL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages utilisés"  />
 </div>
 
 <h1 align="left">💻 Languages and Tools </h3>
