@@ -1,6 +1,6 @@
 <h1 align="center">Hello ! 👋 I'm Cyril,</h1>
 <h3 align="center">A Computer Science student from France.</h3>
-<h4 align="center">I am currently learning Kotlin and Power BI.</h4>
+<h4 align="center">I am currently learning React.JS.</h4>
 
 
 
