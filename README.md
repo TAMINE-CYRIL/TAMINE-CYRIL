@@ -50,13 +50,6 @@ Etudiant en 3ème année de BUT Informatique et apprenti développeur full stack
   
 </div>
 
-## 📈 Graphique de contributions
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TAMINE-CYRIL&theme=tokyo-night&hide_border=true)
-  
-</div>
 
 ## 📫 Me contacter
 
