@@ -42,13 +42,6 @@ Etudiant en 3ème année de BUT Informatique et apprenti développeur full stack
     
 </div>
 
-## 🏆 Trophées GitHub
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TAMINE-CYRIL&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
 
 
 ## 📫 Me contacter
